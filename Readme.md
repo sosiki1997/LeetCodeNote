@@ -5,11 +5,3 @@
 # LeetCode
 
 Source: [https://www.techinterviewhandbook.org/best-practice-questions/](https://www.techinterviewhandbook.org/best-practice-questions/)
-
-[Sequences](https://www.notion.so/b6bff73a8128485f963a2c29ed38fe28)
-
-[Data structures](https://www.notion.so/3765203a153a48409459e191e77b8ddf)
-
-[Non-linear data structures](https://www.notion.so/09b96f86c7e349f3b02584aff6320d8d)
-
-[More Data Structures](https://www.notion.so/5baa3409509e4157b867e5a6956f80a4)
